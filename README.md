@@ -6,6 +6,25 @@
 
 ---
 
+## 📂 폴더 구조 안내
+
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:Consolas,Monaco,monospace; font-size:14px;">
+
+customer-retention-analytics/  
+│  
+├─ 📁 그래프_및_툴_이미지/      → 분석 결과 차트, 툴/로고 이미지  
+├─ 📁 발표자료/                → 최종 발표 PDF  
+├─ 📁 비주력상품EDA/           → 비주력 상품 분석 노트북  
+├─ 📁 주력상품EDA/             → 주력 상품 분석 노트북  
+├─ 📁 통합EDA/                 → 전체 데이터셋 종합 분석  
+├─ 📁 전처리/                  → 데이터 전처리 코드 모음  
+├─ 📁 파일분리_및_병합/         → 데이터 분리 및 병합 과정  
+└─ 📁 태블로_템플릿/            → Tableau 시각화 템플릿 이미지  
+
+</div>
+
+---
+
 ## 📝 프로젝트 소개
 본 프로젝트는 대규모 이커머스 고객 행동 데이터를 분석하여  
 **재구매율 향상**을 목표로 한 **행동 기반 리텐션 마케팅 전략**을 제시한 데이터 분석 프로젝트입니다.  
