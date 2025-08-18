@@ -73,3 +73,8 @@
 - 고객 맞춤 마케팅을 통한 **재구매율 향상**
 - 카테고리별 최적 타이밍 마케팅 → **구매 주기 단축**
 - 장바구니 → 구매 전환율 개선 및 객단가 상승
+
+---
+
+## 🔗 Tableau Public 대시보드
+[👉 대시보드 바로가기](https://public.tableau.com/views/MarketingDashBoardLikelion/Main?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
